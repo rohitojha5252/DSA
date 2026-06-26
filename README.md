@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rohitojha5252/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Array
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rohitojha5252/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1023-camelcase-matching](https://github.com/rohitojha5252/DSA/tree/master/1023-camelcase-matching) |
 | [1089-duplicate-zeros](https://github.com/rohitojha5252/DSA/tree/master/1089-duplicate-zeros) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
@@ -71,17 +73,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
