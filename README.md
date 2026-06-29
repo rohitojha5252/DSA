@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
+| [0825-friends-of-appropriate-ages](https://github.com/rohitojha5252/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/rohitojha5252/DSA/tree/master/0832-flipping-an-image) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rohitojha5252/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/rohitojha5252/DSA/tree/master/0881-boats-to-save-people) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/rohitojha5252/DSA/tree/master/0696-count-binary-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
+| [0825-friends-of-appropriate-ages](https://github.com/rohitojha5252/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/rohitojha5252/DSA/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/rohitojha5252/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rohitojha5252/DSA/tree/master/0905-sort-array-by-parity) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0825-friends-of-appropriate-ages](https://github.com/rohitojha5252/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/rohitojha5252/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rohitojha5252/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rohitojha5252/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/rohitojha5252/DSA/tree/master/0832-flipping-an-image) |
+## Binary Search
+|  |
+| ------- |
+| [0825-friends-of-appropriate-ages](https://github.com/rohitojha5252/DSA/tree/master/0825-friends-of-appropriate-ages) |
 <!---LeetCode Topics End-->
