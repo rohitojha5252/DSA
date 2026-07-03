@@ -2,77 +2,75 @@ class Solution {
 public:
     typedef pair<long long, int> P;
     typedef long long ll;
-
-	bool check(int mid, int n, ll k, unordered_map<int, vector<vector<int>>>& adj) {
-        vector<ll> result(n, LLONG_MAX);
+    bool check(int mid, int n, ll k, vector<vector<pair<int, int>>>& g) {
+        vector<ll> d(n, LLONG_MAX);
 
         priority_queue<P, vector<P>, greater<P>> pq;
 
-        result[0] = 0;
-
+        d[0] = 0;
         pq.push({0, 0});
 
-        while(!pq.empty()) {
-            ll d     = pq.top().first;
+        while (!pq.empty()) {
+            ll size = pq.top().first;
             int node = pq.top().second;
             pq.pop();
 
-            if(d > k) 
+            if (size > k) {
                 return false;
-
-            if(node == n - 1) 
+            }
+            if (node == n - 1)
                 return true;
 
-            if(d > result[node]) 
+            if (size > d[node]) {
                 continue;
+            }
 
-            for(auto &vec : adj[node]) {
-                int adjNode  = vec[0];
-                int edgeCost = vec[1];
+            for (auto& vec : g[node]) {
+                int nextnode = vec.first;
+                int ncost = vec.second;
 
-                if(edgeCost < mid)  //because I want the score to be mid
+                if (ncost < mid)
                     continue;
 
-                if(d + edgeCost < result[adjNode]) {
-                    result[adjNode] = d + edgeCost;
-                    pq.push({d + edgeCost, adjNode});
+                if (size + ncost < d[nextnode]) {
+                    d[nextnode] = size + ncost;
+                    pq.push({size + ncost, nextnode});
                 }
             }
         }
-
         return false;
-	}
+    }
 
-	int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, ll k) {
-		int n = online.size();
-        unordered_map<int, vector<vector<int>>> adj;
+    int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online,ll k) {
+        int n = online.size();
 
-		int l = INT_MAX, r = 0;
+        vector<vector<pair<int, int>>> g(n);
 
-		for(auto &edge : edges) {
-		    int u = edge[0];
-		    int v = edge[1];
-		    int w = edge[2];
+        int l = INT_MAX;
+        int r = 0;
 
-		    if(!online[u] || !online[v]) 
+        for (auto &x : edges) {
+            int u = x[0];
+            int v = x[1];
+            int cost = x[2];
+            if(!online[u] || !online[v]){
                 continue;
-                
-		    adj[u].push_back({v, w});
-		    l = min(l, w);
-		    r = max(r, w);
-		}
+            }
+            g[u].push_back({v, cost});
 
-        int answer = -1;
-
-		while(l <= r) {
-		    int mid = l + (r - l) / 2;
-		    if(check(mid, n, k, adj)) {
-                answer = mid;
+            l = min(l, cost);
+            r = max(r, cost);
+        }
+        int ans = -1;
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (check(mid, n, k, g)) {
+                ans = mid;
                 l = mid + 1;
             } else {
                 r = mid - 1;
             }
-		}
-		return answer;
-	}
+        }
+        return ans;
+    }
 };
