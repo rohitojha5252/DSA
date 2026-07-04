@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rohitojha5252/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1023-camelcase-matching](https://github.com/rohitojha5252/DSA/tree/master/1023-camelcase-matching) |
 | [1089-duplicate-zeros](https://github.com/rohitojha5252/DSA/tree/master/1089-duplicate-zeros) |
+| [1514-path-with-maximum-probability](https://github.com/rohitojha5252/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitojha5252/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rohitojha5252/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rohitojha5252/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1514-path-with-maximum-probability](https://github.com/rohitojha5252/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitojha5252/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rohitojha5252/DSA/tree/master/3620-network-recovery-pathways) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohitojha5252/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/rohitojha5252/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohitojha5252/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitojha5252/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rohitojha5252/DSA/tree/master/3620-network-recovery-pathways) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohitojha5252/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/rohitojha5252/DSA/tree/master/1514-path-with-maximum-probability) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitojha5252/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rohitojha5252/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
