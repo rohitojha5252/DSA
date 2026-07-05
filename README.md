@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rohitojha5252/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitojha5252/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohitojha5252/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rohitojha5252/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
 | [0832-flipping-an-image](https://github.com/rohitojha5252/DSA/tree/master/0832-flipping-an-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitojha5252/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
