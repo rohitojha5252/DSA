@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rohitojha5252/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rohitojha5252/DSA/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/rohitojha5252/DSA/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/rohitojha5252/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rohitojha5252/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/rohitojha5252/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rohitojha5252/DSA/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/rohitojha5252/DSA/tree/master/0763-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/rohitojha5252/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rohitojha5252/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/rohitojha5252/DSA/tree/master/0917-reverse-only-letters) |
