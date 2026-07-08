@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rohitojha5252/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rohitojha5252/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rohitojha5252/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/rohitojha5252/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/rohitojha5252/DSA/tree/master/0948-bag-of-tokens) |
+| [1004-max-consecutive-ones-iii](https://github.com/rohitojha5252/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-camelcase-matching](https://github.com/rohitojha5252/DSA/tree/master/1023-camelcase-matching) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rohitojha5252/DSA/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1089-duplicate-zeros](https://github.com/rohitojha5252/DSA/tree/master/1089-duplicate-zeros) |
@@ -179,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0825-friends-of-appropriate-ages](https://github.com/rohitojha5252/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/rohitojha5252/DSA/tree/master/0826-most-profit-assigning-work) |
+| [1004-max-consecutive-ones-iii](https://github.com/rohitojha5252/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/rohitojha5252/DSA/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rohitojha5252/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rohitojha5252/DSA/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohitojha5252/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
