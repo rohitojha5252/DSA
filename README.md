@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rohitojha5252/DSA/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
@@ -253,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohitojha5252/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/rohitojha5252/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
