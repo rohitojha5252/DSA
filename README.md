@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0845-longest-mountain-in-array](https://github.com/rohitojha5252/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rohitojha5252/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitojha5252/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rohitojha5252/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rohitojha5252/DSA/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rohitojha5252/DSA/tree/master/0821-shortest-distance-to-a-character) |
