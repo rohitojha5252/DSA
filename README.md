@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rohitojha5252/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0845-longest-mountain-in-array](https://github.com/rohitojha5252/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rohitojha5252/DSA/tree/master/0062-unique-paths) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rohitojha5252/DSA/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/rohitojha5252/DSA/tree/master/1093-statistics-from-a-large-sample) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rohitojha5252/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohitojha5252/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/rohitojha5252/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rohitojha5252/DSA/tree/master/0047-permutations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rohitojha5252/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
