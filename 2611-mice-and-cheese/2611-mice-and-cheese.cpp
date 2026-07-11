@@ -11,8 +11,7 @@ public:
         while(k--){
             int ind = pq.top().second;
             pq.pop();
-            ans += reward1[ind];
-            reward2[ind] = 0;
+            ans += reward1[ind]-reward2[ind];
         }
         for(int i=0; i<n; i++){
             ans+=reward2[i];
