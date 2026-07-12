@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rohitojha5252/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rohitojha5252/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/rohitojha5252/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0845-longest-mountain-in-array](https://github.com/rohitojha5252/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rohitojha5252/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rohitojha5252/DSA/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/rohitojha5252/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohitojha5252/DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/rohitojha5252/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
