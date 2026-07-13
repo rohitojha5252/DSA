@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rohitojha5252/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/rohitojha5252/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/rohitojha5252/DSA/tree/master/0455-assign-cookies) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rohitojha5252/DSA/tree/master/0821-shortest-distance-to-a-character) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rohitojha5252/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/rohitojha5252/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/rohitojha5252/DSA/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/rohitojha5252/DSA/tree/master/0826-most-profit-assigning-work) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rohitojha5252/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/rohitojha5252/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rohitojha5252/DSA/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/rohitojha5252/DSA/tree/master/0763-partition-labels) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/rohitojha5252/DSA/tree/master/0047-permutations-ii) |
+| [0455-assign-cookies](https://github.com/rohitojha5252/DSA/tree/master/0455-assign-cookies) |
 | [0825-friends-of-appropriate-ages](https://github.com/rohitojha5252/DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/rohitojha5252/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/rohitojha5252/DSA/tree/master/0881-boats-to-save-people) |
