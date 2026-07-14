@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/rohitojha5252/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohitojha5252/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/rohitojha5252/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/rohitojha5252/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rohitojha5252/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitojha5252/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohitojha5252/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/rohitojha5252/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/rohitojha5252/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/rohitojha5252/DSA/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/rohitojha5252/DSA/tree/master/0763-partition-labels) |
