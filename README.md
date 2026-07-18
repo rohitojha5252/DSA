@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohitojha5252/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-path-with-maximum-probability](https://github.com/rohitojha5252/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitojha5252/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2611-mice-and-cheese](https://github.com/rohitojha5252/DSA/tree/master/2611-mice-and-cheese) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rohitojha5252/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rohitojha5252/DSA/tree/master/0062-unique-paths) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/rohitojha5252/DSA/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1093-statistics-from-a-large-sample](https://github.com/rohitojha5252/DSA/tree/master/1093-statistics-from-a-large-sample) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitojha5252/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitojha5252/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rohitojha5252/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitojha5252/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitojha5252/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rohitojha5252/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
