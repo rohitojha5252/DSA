@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/rohitojha5252/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohitojha5252/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohitojha5252/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/rohitojha5252/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rohitojha5252/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/rohitojha5252/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/rohitojha5252/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rohitojha5252/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohitojha5252/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rohitojha5252/DSA/tree/master/0455-assign-cookies) |
+| [0746-min-cost-climbing-stairs](https://github.com/rohitojha5252/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rohitojha5252/DSA/tree/master/0821-shortest-distance-to-a-character) |
