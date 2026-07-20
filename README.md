@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rohitojha5252/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohitojha5252/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rohitojha5252/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/rohitojha5252/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitojha5252/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rohitojha5252/DSA/tree/master/0213-house-robber-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rohitojha5252/DSA/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohitojha5252/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rohitojha5252/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/rohitojha5252/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rohitojha5252/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rohitojha5252/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rohitojha5252/DSA/tree/master/0213-house-robber-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/rohitojha5252/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/rohitojha5252/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rohitojha5252/DSA/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/rohitojha5252/DSA/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/rohitojha5252/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohitojha5252/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohitojha5252/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rohitojha5252/DSA/tree/master/0139-word-break) |
 | [1023-camelcase-matching](https://github.com/rohitojha5252/DSA/tree/master/1023-camelcase-matching) |
 ## String Matching
 |  |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohitojha5252/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/rohitojha5252/DSA/tree/master/0139-word-break) |
 | [0763-partition-labels](https://github.com/rohitojha5252/DSA/tree/master/0763-partition-labels) |
 | [0923-3sum-with-multiplicity](https://github.com/rohitojha5252/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1331-rank-transform-of-an-array](https://github.com/rohitojha5252/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -363,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/rohitojha5252/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitojha5252/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rohitojha5252/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
