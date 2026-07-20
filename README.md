@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rohitojha5252/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/rohitojha5252/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohitojha5252/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rohitojha5252/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/rohitojha5252/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohitojha5252/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/rohitojha5252/DSA/tree/master/0647-palindromic-substrings) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rohitojha5252/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rohitojha5252/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rohitojha5252/DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/rohitojha5252/DSA/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/rohitojha5252/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/rohitojha5252/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rohitojha5252/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/rohitojha5252/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rohitojha5252/DSA/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/rohitojha5252/DSA/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
