@@ -18,6 +18,8 @@ public:
 
     }
     bool isInterleave(string s1, string s2, string s3) {
+        if (s1.size() + s2.size() != s3.size())
+            return false;
         dp.assign(s1.size()+1, vector<int>(s2.size()+1, -1));
         return func(s1, s2, s3, 0, 0);
     }
