@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/rohitojha5252/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitojha5252/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rohitojha5252/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2611-mice-and-cheese](https://github.com/rohitojha5252/DSA/tree/master/2611-mice-and-cheese) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rohitojha5252/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/rohitojha5252/DSA/tree/master/0948-bag-of-tokens) |
 | [1023-camelcase-matching](https://github.com/rohitojha5252/DSA/tree/master/1023-camelcase-matching) |
 | [1089-duplicate-zeros](https://github.com/rohitojha5252/DSA/tree/master/1089-duplicate-zeros) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rohitojha5252/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rohitojha5252/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/rohitojha5252/DSA/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/rohitojha5252/DSA/tree/master/1260-shift-2d-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rohitojha5252/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rohitojha5252/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
