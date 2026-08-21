@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rohitojha5252/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rohitojha5252/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rohitojha5252/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitojha5252/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rohitojha5252/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitojha5252/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rohitojha5252/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/rohitojha5252/DSA/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/rohitojha5252/DSA/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitojha5252/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rohitojha5252/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rohitojha5252/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/rohitojha5252/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1004-max-consecutive-ones-iii](https://github.com/rohitojha5252/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitojha5252/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rohitojha5252/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/rohitojha5252/DSA/tree/master/3620-network-recovery-pathways) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/rohitojha5252/DSA/tree/master/3722-lexicographically-smallest-string-after-reverse) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/rohitojha5252/DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/rohitojha5252/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitojha5252/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitojha5252/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rohitojha5252/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rohitojha5252/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -430,11 +434,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rohitojha5252/DSA/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitojha5252/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rohitojha5252/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitojha5252/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitojha5252/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohitojha5252/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rohitojha5252/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
