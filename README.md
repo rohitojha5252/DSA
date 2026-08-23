@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/rohitojha5252/DSA/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitojha5252/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rohitojha5252/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/rohitojha5252/DSA/tree/master/1927-sum-game) |
 | [2611-mice-and-cheese](https://github.com/rohitojha5252/DSA/tree/master/2611-mice-and-cheese) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitojha5252/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohitojha5252/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitojha5252/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rohitojha5252/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rohitojha5252/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/rohitojha5252/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitojha5252/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rohitojha5252/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitojha5252/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/rohitojha5252/DSA/tree/master/1093-statistics-from-a-large-sample) |
 | [1406-stone-game-iii](https://github.com/rohitojha5252/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rohitojha5252/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rohitojha5252/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/rohitojha5252/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohitojha5252/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rohitojha5252/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/rohitojha5252/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rohitojha5252/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/rohitojha5252/DSA/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
