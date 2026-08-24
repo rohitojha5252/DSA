@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rohitojha5252/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/rohitojha5252/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rohitojha5252/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohitojha5252/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rohitojha5252/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/rohitojha5252/DSA/tree/master/3620-network-recovery-pathways) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rohitojha5252/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rohitojha5252/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rohitojha5252/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rohitojha5252/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/rohitojha5252/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitojha5252/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/rohitojha5252/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/rohitojha5252/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitojha5252/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitojha5252/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-statistics-from-a-large-sample](https://github.com/rohitojha5252/DSA/tree/master/1093-statistics-from-a-large-sample) |
 | [1406-stone-game-iii](https://github.com/rohitojha5252/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rohitojha5252/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rohitojha5252/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/rohitojha5252/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -482,13 +486,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rohitojha5252/DSA/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/rohitojha5252/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rohitojha5252/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rohitojha5252/DSA/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rohitojha5252/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rohitojha5252/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
