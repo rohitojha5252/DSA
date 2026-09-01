@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/rohitojha5252/DSA/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rohitojha5252/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitojha5252/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitojha5252/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rohitojha5252/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2611-mice-and-cheese](https://github.com/rohitojha5252/DSA/tree/master/2611-mice-and-cheese) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitojha5252/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rohitojha5252/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/rohitojha5252/DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitojha5252/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2611-mice-and-cheese](https://github.com/rohitojha5252/DSA/tree/master/2611-mice-and-cheese) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rohitojha5252/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rohitojha5252/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
