@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/rohitojha5252/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/rohitojha5252/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/rohitojha5252/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/rohitojha5252/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/rohitojha5252/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rohitojha5252/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/rohitojha5252/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rohitojha5252/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rohitojha5252/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
