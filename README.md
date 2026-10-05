@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/rohitojha5252/DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0809-expressive-words](https://github.com/rohitojha5252/DSA/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/rohitojha5252/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/rohitojha5252/DSA/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/rohitojha5252/DSA/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/rohitojha5252/DSA/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/rohitojha5252/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/rohitojha5252/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rohitojha5252/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/rohitojha5252/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/rohitojha5252/DSA/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rohitojha5252/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitojha5252/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -591,5 +593,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rohitojha5252/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/rohitojha5252/DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rohitojha5252/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
